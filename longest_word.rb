@@ -6,4 +6,3 @@ user_input = $stdin.gets.strip.split
 puts user_input
 # .map(&:length).max
 # puts @longest
-binding.pry
